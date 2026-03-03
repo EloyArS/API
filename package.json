@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api de pruebas",
+  "homepage": "https://github.com/EloyArS/API#readme",
+  "bugs": {
+    "url": "https://github.com/EloyArS/API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EloyArS/API.git"
+  },
+  "license": "ISC",
+  "author": "Eloy A.",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
